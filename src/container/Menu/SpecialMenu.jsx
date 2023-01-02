@@ -6,7 +6,7 @@ import './SpecialMenu.css';
 
 
 const SpecialMenu = () => (
-  <div className='app__specialMenu flex__center section_padding' id="menu">
+  <div className='app__specialMenu flex__center section__padding' id="menu">
     <div className='app__specialMenu-title'>
       <SubHeading title="Menu that fits you palatte" class_name="p__cormorant" style={{marginBottom:'1rem'}} />
       <h1 className='headhtext__cormorant'>Today's Special</h1>
